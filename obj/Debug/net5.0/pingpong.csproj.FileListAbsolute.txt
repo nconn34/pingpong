@@ -1,0 +1,16 @@
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.exe
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.deps.json
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.runtimeconfig.json
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.dll
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\ref\pingpong.dll
+C:\Users\Nathan\Desktop\pingpong\bin\Debug\net5.0\pingpong.pdb
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.dll
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\ref\pingpong.dll
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.pdb
+C:\Users\Nathan\Desktop\pingpong\obj\Debug\net5.0\pingpong.genruntimeconfig.cache
